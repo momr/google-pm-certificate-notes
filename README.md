@@ -15,7 +15,7 @@ and a fourth optional one. The three main parts are: PM Foundation, PM phases
 deep dive, and Agile mindset & methodology, while the fourth optional part is
 PM as a career.
 
-![](assets/specialization-overview-2021-07-20-16-54-30.png)
+![Specialization Overview](assets/specialization-overview-2021-07-20-16-54-30.png)
 
 ## PM Foundation
 
@@ -27,7 +27,7 @@ focused on PM as a career, and will be discussed into its own section later on.
 Starting from week 2, you will start to learn about becoming an effective PM as
 shown below
 
-![](assets/1-foundation-w2-overview-2021-07-20-17-01-14.png)
+![Week #2 of the Foundation course overview](assets/1-foundation-w2-overview-2021-07-20-17-01-14.png)
 
 !!! note ""
     The items in bold, are the items I'm most interested in to learn more about
@@ -84,7 +84,7 @@ and different PM methodologies, including:
 
 ### W4 - Organizational Structure & Culture
 
-![](assets/1-foundation-w4-overview-2021-07-20-17-28-58.png)
+![Week #4 of the Foundation course overview](assets/1-foundation-w4-overview-2021-07-20-17-28-58.png)
 
 This is one of the interesting topics that I'm interested in learning more about
 it, and learning it in depth.
